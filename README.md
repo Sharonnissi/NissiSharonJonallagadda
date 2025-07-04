@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <h1 align="center">Nissi Sharon Jonallagadda</h1>
 <h3 align="center">Business Analyst</h3>
@@ -249,5 +249,3 @@ Detail-oriented Business Analyst with expertise in requirements gathering, proce
 
 <p align="center"> _Thanks for stopping by!_ </p>
 =======
-# NissiSharonJonallagadda
->>>>>>> 5947915187eb74888b131fd3e50e76114bad4ad2
